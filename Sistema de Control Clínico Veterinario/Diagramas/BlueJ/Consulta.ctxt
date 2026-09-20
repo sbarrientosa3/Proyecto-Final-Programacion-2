@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sat Sep 19 19:21:41 CST 2026
+comment0.target=Consulta
+comment1.params=fecha diagnostico peso paciente
+comment1.target=Consulta(java.lang.String, java.lang.String, double, Mascota)
+comment2.target=java.lang.String getDetalle()
+numComments=3

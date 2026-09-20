@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Sep 19 19:21:14 CST 2026
+comment0.target=Mascota
+comment1.params=idMascota nombre especie due\u00F1o
+comment1.target=Mascota(java.lang.String, java.lang.String, java.lang.String, Cliente)
+comment2.target=java.lang.String getIdMascota()
+comment3.target=java.lang.String getNombre()
+comment4.target=Cliente getDue\u00F1o()
+numComments=5
